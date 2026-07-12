@@ -1,0 +1,58 @@
+INSTRUÇÕES PARA ADICIONAR IMAGENS
+==================================
+
+Salve cada imagem com o nome exato abaixo em formato JPG.
+Tamanho ideal: 400x400px (quadrada).
+Como obter: abra o produto, clique com botão direito na foto principal > "Salvar imagem como".
+
+BEBÊ (38 produtos):
+- algodao-quadrado-bebe.jpg
+- absorvente-cremer-seios.jpg
+- baby-dove-sabonete.jpg
+- bepantol-baby.jpg
+- buba-lavador-nasal.jpg
+- buba-mordedor-maozinha.jpg
+- cadeira-burigotto-poke.jpg
+- cadeira-minnie-multikids.jpg
+- camera-intelbras-im3.jpg
+- canguru-baby-bear.jpg
+- canguru-sling.jpg
+- cobertor-manta-sherpa (renomear: manta-soft-sherpa.jpg)
+- escova-dental-kess.jpg
+- escova-mamadeira-buba.jpg
+- exposis-bebe.jpg
+- fever-friends-adesivo.jpg
+- fralda-monica-xg.jpg
+- fralda-pampers-premium-p.jpg
+- giovanna-baby-gel.jpg
+- hastes-flexiveis-clingo.jpg
+- hipoglos-transparente.jpg
+- kit-bolsa-mala.jpg
+- lencos-huggies-rosto.jpg
+- lencos-pampers-aloe.jpg
+- likluc-xo-febre.jpg
+- livro-banho-montessori.jpg
+- mamadeiras-buba-easy-flow.jpg
+- mosquiteiro-berco.jpg
+- mustela-gel-400ml.jpg
+- mustela-gel-500ml.jpg
+- ninho-fases1.jpg
+- omo-sabao-bebe.jpg
+- potes-leite-materno.jpg
+- repelente-sbp-baby (renomear: sbp-baby-icaridina.jpg)
+- saquinhos-maternidade.jpg
+- tenda-praia-bebe.jpg
+- toalha-fralda-papi.jpg
+- xuxinhas-rabico.jpg
+
+CASA (5 produtos):
+- formas-gelo-silicone.jpg
+- grade-portao-pet.jpg
+- sacos-lixo-perfumados.jpg
+- vanish-oxi-action.jpg
+- varal-torre-3andares.jpg
+
+TECH (1 produto):
+- galaxy-smarttag2.jpg
+
+TOTAL: 44 imagens
